@@ -1,3 +1,7 @@
 name = "modelsfallingdown"
 main = "src/index.js"
 compatibility_date = "2025-03-01"
+
+# Serve max.avif from project root; .assetsignore keeps junk out of uploads.
+[assets]
+directory = "."

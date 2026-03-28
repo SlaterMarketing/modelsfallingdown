@@ -1,0 +1,11 @@
+node_modules/
+.git/
+.git/**
+src/
+package.json
+package-lock.json
+wrangler.toml
+.gitignore
+.assetsignore
+.cursor/
+**/*.md
